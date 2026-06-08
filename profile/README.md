@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="120" alt="Grimmforge" src="https://github.com/user-attachments/assets/4957262e-458a-439e-bdf3-61cc49c21d72" />
+<img width="120" alt="Grimmforge" src="https://github.com/user-attachments/assets/75e387b8-169a-4259-9d72-deb49ce673b0" />
 
 # Grimmforge
 
