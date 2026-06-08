@@ -10,7 +10,7 @@
 
 ---
 
-Grimmforge is where [Grimmvocare](https://www.curseforge.com/members/grimmvocare)'s
+Grimmforge is where [Grimmvöcare](https://www.curseforge.com/members/grimmvocare)'s
 World of Warcraft addons are built and kept. The brief is the same for all of
 them: lightweight, focused on a single job the default UI does badly, and
 self-contained - no required libraries (unless directly embedded), no telemetry, no RGB.
@@ -52,7 +52,7 @@ a heraldic catalogue rather than a combat overlay.
 
 ## Elsewhere
 
-All releases live on CurseForge under [Grimmvocare](https://www.curseforge.com/members/grimmvocare).
+All releases live on CurseForge under [Grimmvöcare](https://www.curseforge.com/members/grimmvocare).
 Found a bug, a missing title, or a wrong source? Open an issue on the relevant
 repo with your patch version and the specifics.
 
