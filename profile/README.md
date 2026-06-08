@@ -22,7 +22,7 @@ self-contained - no required libraries (unless directly embedded), no telemetry,
 [![Downloads](https://img.shields.io/curseforge/dt/1555478?label=downloads&color=6E40C9&logo=curseforge&logoColor=white)](https://www.curseforge.com/wow/addons/disenqueue)
 [![License](https://img.shields.io/badge/license-Apache--2.0-6E40C9)](https://github.com/Grimmforge/Disenqueue/blob/main/LICENSE)
 
-A disenchant queue that processes one item per hardware input — fully within
+A disenchant queue that processes one item per hardware input - fully within
 Blizzard's one-action-per-keypress rules. Scan your bags, bind a key (the
 scroll wheel works well), and shred through gear safely. Also handles
 Prospecting and Milling, because Enchanting is the one true craft and
