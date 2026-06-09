@@ -56,6 +56,10 @@ All releases live on CurseForge under [Grimmvöcare](https://www.curseforge.com/
 Found a bug, a missing title, or a wrong source? Open an issue on the relevant
 repo with your patch version and the specifics.
 
+## ☕ Support Grimmforge
+
+[![Buy Grimmforge a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-grimmvocare-5B21B6?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/grimmvocare)
+
 ---
 
 <div align="center">
